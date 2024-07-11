@@ -1,0 +1,13 @@
+Package: GenScale
+Type: Package
+Title: Generalized Exponential Population with Common Scale
+Version: 0.1.0
+Authors: Debasmita Bal
+Maintainer: Debasmita Bal <bdebasmita513@gmail.com>
+Description: This package finds bias and mean squared error of all the proposed estimators using MLE, Lindly, Tierney & Kadane and MCMC 
+	     approximations. EPM values can be calculated using this estimators. This package also contains data generating procedures.
+License: use_mit_license(), use_gpl3_license() or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
