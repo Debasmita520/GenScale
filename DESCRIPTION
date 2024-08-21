@@ -4,8 +4,10 @@ Title: Generalized Exponential Population with Common Scale
 Version: 0.1.0
 Authors: Debasmita Bal
 Maintainer: Debasmita Bal <bdebasmita513@gmail.com>
-Description: This package finds bias and mean squared error of all the proposed estimators using MLE, Lindly, Tierney & Kadane and MCMC 
-	     approximations. EPM values can be calculated using this estimators. This package also contains data generating procedures.
+Description: This package calculates the bias and mean squared error of various proposed estimators for two generalized exponential populations with a common scale model.
+	     The estimators used include the Maximum Likelihood Estimator, Lindley’s method, Tierney & Kadane’s approach, and MCMC approximations. 
+	     Using these estimators, we can construct several classification rules, such as the Bayes classification rule and the likelihood accordance rule, 
+	     and can compute the probability of misclassification for each rule. Moreover this methodology has also been proved on real life dataset in this package.
 License: use_mit_license(), use_gpl3_license() or friends to pick a
     license
 Encoding: UTF-8
