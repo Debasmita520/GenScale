@@ -1,1 +1,3 @@
-# GenScale
+# This package calculates the bias and mean squared error of various proposed estimators for two generalized exponential populations with a common scale model. Using these estimators, we have constructed several classification rules.
+# To illustrate the classification process, a dataset that records the remission durations of leukemia patients treated with one of four different drugs has been considered. The dataset includes four groups of 20 patients each, totaling 80 patients. We began by estimating the unknown parameters related to the remission periods for each drug. These estimates are then used to develop classification rules to predict which drug a patient received based on their remission duration. 
+# Finally, the accuracy of these classification rules is assessed by comparing the predicted drug assignments to the actual treatments, providing insight into the effectiveness of the classification models.
